@@ -16,3 +16,5 @@ If you're into coding adventures, let's team up! Whether it's enhancing my proje
 ## **Stay Curious**
 In this ever-changing tech universe, staying curious is key. Join me in embracing the exciting world of code!
 Thanks for dropping by! 😊
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devadethanr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
