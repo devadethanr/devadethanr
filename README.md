@@ -1,5 +1,9 @@
 ## **Welcome!**
 Hey there! 👋 Welcome to my GitHub world. This is where I tinker with code, dream up projects, and connect with fellow developers.
+## **Activity Graph!**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devadethanr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
 
 ## **Stats!**
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devadethanr&show_icons=true&theme=gruvbox)
@@ -17,4 +21,4 @@ If you're into coding adventures, let's team up! Whether it's enhancing my proje
 In this ever-changing tech universe, staying curious is key. Join me in embracing the exciting world of code!
 Thanks for dropping by! 😊
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devadethanr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
