@@ -1,9 +1,6 @@
 ## **Welcome!**
 Hey there! 👋 Welcome to my GitHub world. This is where I tinker with code, dream up projects, and connect with fellow developers.
 ## **Activity Graph!**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devadethanr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-
 
 ## **Stats!**
 
