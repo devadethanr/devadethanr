@@ -1,6 +1,6 @@
 ## **Welcome!**
 Hey there! 👋 Welcome to my GitHub world. This is where I tinker with code, dream up projects, and connect with fellow developers.
-## **Activity Graph!**
+
 
 ## **Stats!**
 
