@@ -3,9 +3,6 @@ Hey there! 👋 Welcome to my GitHub world. This is where I tinker with code, dr
 
 
 ## **Stats!**
-
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devadethanr&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=devadethanr&theme=gruvbox&border_radius=4.5)
 ## **About Me**
 I'm always a student for technology and its advancements and  who thrives on turning ideas into lines of code. From web apps to AI experiments, I love exploring it all.
